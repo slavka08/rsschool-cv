@@ -1,1 +1,1 @@
-README.md
+https://slavka08.github.io/rsschool-cv/cv
